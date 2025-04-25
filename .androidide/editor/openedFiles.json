@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/.projects/Notepad/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 482,
+          "line": 8
+        },
+        "start": {
+          "column": 10,
+          "index": 482,
+          "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/.projects/Notepad/app/src/main/java/com/nemirus/notepad/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 6,
+          "index": 6,
+          "line": 0
+        },
+        "start": {
+          "column": 6,
+          "index": 6,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/.projects/Notepad/app/src/main/java/com/nemirus/notepad/MainActivity.kt"
+}
