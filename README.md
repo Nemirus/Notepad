@@ -46,9 +46,6 @@ Once the app is launched, you will be able to:
 
 ## Code Structure
 - `MainActivity.kt`: The main entry point of the app that initializes and displays the app's UI.
-- `NotepadApp.kt`: Contains the main composable function that handles note listing, creation, and selection.
-- `NoteDetail.kt`: Used for displaying and editing an individual note's details.
-- `NoteCard.kt`: Displays a summary of a note in the list view.
 
 ## Contributing
 Feel free to fork this repository, make changes, and submit a pull request. Please make sure to follow the project's coding style and add relevant tests.
