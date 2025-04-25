@@ -15,7 +15,8 @@ This app uses Jetpack Compose for the UI and follows modern Android app architec
 
 ## Screenshots
 
-*(Add screenshots of the app here)*
+[Screenshot 1](ss1.jpg)
+[Screenshot 2](ss2.jpg)
 
 ## Requirements
 - Android Studio 4.2+ 
