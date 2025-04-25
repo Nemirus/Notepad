@@ -52,7 +52,3 @@ Feel free to fork this repository, make changes, and submit a pull request. Plea
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Jetpack Compose
-- Kotlin
