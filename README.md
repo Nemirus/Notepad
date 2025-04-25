@@ -22,7 +22,7 @@ This app uses Jetpack Compose for the UI and follows modern Android app architec
 
 ## Requirements
 - [Android IDE](https://github.com/AndroidIDEOfficial/AndroidIDE/releases/tag/v2.7.1-beta)
-- (Alternative)Android Studio 4.2+ 
+- (Alternative) Android Studio 4.2+ 
 - Kotlin 1.5+
 - Jetpack Compose 1.0+
 
